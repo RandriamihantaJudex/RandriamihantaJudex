@@ -1,7 +1,7 @@
 
 # 💻 Compétences:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,tailwind css,bootstrap" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,tailwind css,Bootstrap" alt="DevOps Tools" />
 </p>
 
 
