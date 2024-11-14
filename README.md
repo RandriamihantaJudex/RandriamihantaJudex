@@ -1,11 +1,12 @@
 
 # 💻 Compétences:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,tailwind css,Bootstrap" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,tailwind,Bootstrap" alt="DevOps Tools" />
 </p>
+
 # 💻 Outils:
 <p>
-  <img src="https://skillicons.dev/icons?i=git,figma" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode" alt="DevOps Tools" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=RandriamihantaJudex&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
