@@ -15,7 +15,7 @@
 
 ### Competence
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,docker,rabbitmq,grafana,influxdb,kubernets" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,tailwind css,bootstrap" alt="DevOps Tools" />
 </p>
 
 
