@@ -16,6 +16,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RandriamihantaJudex&theme=tokyonight&hide_border=false)<br/>
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandriamihantaJudex&theme=tokyonight&hide_border=false)
 
 ---
 
