@@ -6,7 +6,7 @@
 
 # 💻 Outils:
 <p>
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,github,trello" alt="DevOps Tools" />
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RandriamihantaJudex&theme=nightowl&hide_border=false)<br/>
