@@ -14,7 +14,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?RandriamihantaJudex=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RandriamihantaJudex&theme=meta-dark)](https://git.io/streak-stats)
 
 
 
