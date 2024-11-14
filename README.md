@@ -14,7 +14,7 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandriamihantaJudex&theme=meta-dark" alt="GitHub Streak" /></a>
+<p>judex</p>
 
 
 
