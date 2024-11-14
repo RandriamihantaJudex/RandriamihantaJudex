@@ -13,6 +13,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
+### Competence
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,rabbitmq,grafana,influxdb,kubernets" alt="DevOps Tools" />
+</p>
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=RandriamihantaJudex&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RandriamihantaJudex&theme=nightowl&hide_border=false)<br/>
