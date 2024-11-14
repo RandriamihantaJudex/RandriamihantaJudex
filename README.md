@@ -14,7 +14,7 @@
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RandriamihantaJudex&theme=tokyonight&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?RandriamihantaJudex=DenverCoder1)](https://git.io/streak-stats)
 
 
 
